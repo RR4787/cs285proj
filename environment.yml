@@ -1,4 +1,4 @@
-name: ucfadar-relnet
+name: relnet
 channels:
   - defaults
 dependencies:
